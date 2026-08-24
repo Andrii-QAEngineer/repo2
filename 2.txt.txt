@@ -1,3 +1,7 @@
 This is my new code
 
+This is branch dev1
+
+Helo I'm merging
+
 This branch develop.
